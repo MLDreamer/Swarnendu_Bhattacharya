@@ -3,7 +3,7 @@ Dr. Swarnendu Bhattacharya, PhD
 
 
 👋 About Me
-Data science leader with 8+ years of experience building and scaling AI solutions across supply chain, marketing, and finance domains. PhD from IIT Bombay with expertise in applied mathematics and advanced AI architectures. Currently driving digital transformation at Unilever through AI-powered decision-making, optimization, and real-time analytics.
+Data science leader with 10+ years of experience building and scaling AI solutions across supply chain, marketing, and finance domains. PhD from IIT Bombay with expertise in applied mathematics and advanced AI architectures. Currently driving digital transformation at Unilever through AI-powered decision-making, optimization, and real-time analytics.
 I'm passionate about creating practical AI solutions that drive measurable business value, particularly in time series forecasting, generative AI, and optimization problems.
 
 🛠️ Tech Stack
